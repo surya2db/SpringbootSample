@@ -1,0 +1,468 @@
+[2020-07-24T05:06:17.017Z] [com.example.demo.DemoApplication] [main] [13] [INFO ] this is a info message
+[2020-07-24T05:06:17.017Z] [com.example.demo.DemoApplication] [main] [14] [WARN ] this is a warn message
+[2020-07-24T05:06:17.017Z] [com.example.demo.DemoApplication] [main] [15] [ERROR] this is a error message
+[2020-07-24T05:06:27.027Z] [org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] [main] [106] [WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+[2020-07-24T05:14:15.015Z] [com.example.demo.DemoApplication] [main] [13] [INFO ] this is a info message
+[2020-07-24T05:14:16.016Z] [com.example.demo.DemoApplication] [main] [14] [WARN ] this is a warn message
+[2020-07-24T05:14:16.016Z] [com.example.demo.DemoApplication] [main] [15] [ERROR] this is a error message
+[2020-07-24T05:14:22.022Z] [org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] [main] [106] [WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+[2020-07-24T05:14:24.024Z] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-9090-exec-10] [199] [WARN ] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+[2020-07-24T05:20:53.053Z] [com.example.demo.DemoApplication] [main] [13] [INFO ] this is a info message
+[2020-07-24T05:20:53.053Z] [com.example.demo.DemoApplication] [main] [14] [WARN ] this is a warn message
+[2020-07-24T05:20:53.053Z] [com.example.demo.DemoApplication] [main] [15] [ERROR] this is a error message
+[2020-07-24T05:20:58.058Z] [org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] [main] [106] [WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+[2020-07-24T05:23:31.031Z] [com.example.demo.DemoApplication] [main] [13] [INFO ] this is a info message
+[2020-07-24T05:23:31.031Z] [com.example.demo.DemoApplication] [main] [14] [WARN ] this is a warn message
+[2020-07-24T05:23:31.031Z] [com.example.demo.DemoApplication] [main] [15] [ERROR] this is a error message
+[2020-07-24T05:23:37.037Z] [org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] [main] [106] [WARN ] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+[2020-07-24T05:33:13.013Z] [com.example.demo.DemoApplication] [main] [13] [INFO ] this is a info message
+[2020-07-24T05:33:13.013Z] [com.example.demo.DemoApplication] [main] [14] [WARN ] this is a warn message
+[2020-07-24T05:33:13.013Z] [com.example.demo.DemoApplication] [main] [15] [ERROR] this is a error message
+[2020-07-24T05:33:24.024Z] [org.springframework.context.support.AbstractApplicationContext] [main] [559] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9090 is already in use
+[2020-07-24T05:33:25.025Z] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] [main] [40] [ERROR] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9090 or configure this application to listen on another port.
+
+[2020-07-24T05:34:07.007Z] [com.example.demo.DemoApplication] [main] [13] [INFO ] this is a info message
+[2020-07-24T05:34:07.007Z] [com.example.demo.DemoApplication] [main] [14] [WARN ] this is a warn message
+[2020-07-24T05:34:07.007Z] [com.example.demo.DemoApplication] [main] [15] [ERROR] this is a error message
+[2020-07-24T05:35:55.055Z] [com.example.demo.DemoApplication] [main] [13] [INFO ] this is a info message
+[2020-07-24T05:35:55.055Z] [com.example.demo.DemoApplication] [main] [14] [WARN ] this is a warn message
+[2020-07-24T05:35:55.055Z] [com.example.demo.DemoApplication] [main] [15] [ERROR] this is a error message
+[2020-07-24T05:41:24.024Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T05:41:24.024Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T05:41:24.024Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T05:47:12.012Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T05:47:12.012Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T05:47:12.012Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T05:47:30.030Z] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-9090-exec-1] [199] [WARN ] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+[2020-07-24T05:47:35.035Z] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-9090-exec-2] [199] [WARN ] Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type '' not supported]
+[2020-07-24T05:53:36.036Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T05:53:36.036Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T05:53:36.036Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T05:53:50.050Z] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-9090-exec-3] [199] [WARN ] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[2020-07-24T05:54:57.057Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T05:54:57.057Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T05:54:57.057Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T05:55:11.011Z] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-9090-exec-2] [199] [WARN ] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[2020-07-24T05:56:26.026Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T05:56:26.026Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T05:56:26.026Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T05:56:42.042Z] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-9090-exec-3] [199] [WARN ] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[2020-07-24T05:59:49.049Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T05:59:49.049Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T05:59:49.049Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T06:00:09.009Z] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-9090-exec-4] [199] [WARN ] Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded' not supported]
+[2020-07-24T06:03:48.048Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-9090-exec-7] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+java.io.FileNotFoundException: \var\tmp\mysql.png (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.example.demo.controller.FileDownloadController.downloadFile(FileDownloadController.java:21)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.example.demo.SimpleFilter.doFilter(SimpleFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[2020-07-24T06:04:18.018Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T06:04:18.018Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T06:04:18.018Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T06:07:09.009Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T06:07:09.009Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T06:07:09.009Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T06:07:17.017Z] [org.springframework.context.support.AbstractApplicationContext] [main] [559] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+[2020-07-24T06:07:17.017Z] [org.springframework.boot.SpringApplication] [main] [837] [ERROR] Application run failed
+org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:185)
+	at org.springframework.context.support.DefaultLifecycleProcessor.access$200(DefaultLifecycleProcessor.java:53)
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.start(DefaultLifecycleProcessor.java:360)
+	at org.springframework.context.support.DefaultLifecycleProcessor.startBeans(DefaultLifecycleProcessor.java:158)
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:122)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:895)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:554)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:18)
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:229)
+	at org.springframework.boot.web.servlet.context.WebServerStartStopLifecycle.start(WebServerStartStopLifecycle.java:43)
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:182)
+	... 14 common frames omitted
+Caused by: java.lang.IllegalArgumentException: standardService.connector.startFailed
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:231)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:282)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:213)
+	... 16 common frames omitted
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1067)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:227)
+	... 18 common frames omitted
+Caused by: java.lang.IllegalArgumentException: C:\demo\keystore.p12 (The system cannot find the file specified)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.createSSLContext(AbstractJsseEndpoint.java:99)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.initialiseSsl(AbstractJsseEndpoint.java:71)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:216)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1141)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1227)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:592)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1064)
+	... 20 common frames omitted
+Caused by: java.io.FileNotFoundException: C:\demo\keystore.p12 (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at sun.net.www.protocol.file.FileURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(Unknown Source)
+	at org.apache.catalina.startup.CatalinaBaseConfigurationSource.getResource(CatalinaBaseConfigurationSource.java:121)
+	at org.apache.tomcat.util.net.SSLUtilBase.getStore(SSLUtilBase.java:197)
+	at org.apache.tomcat.util.net.SSLHostConfigCertificate.getCertificateKeystore(SSLHostConfigCertificate.java:207)
+	at org.apache.tomcat.util.net.SSLUtilBase.getKeyManagers(SSLUtilBase.java:282)
+	at org.apache.tomcat.util.net.SSLUtilBase.createSSLContext(SSLUtilBase.java:246)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.createSSLContext(AbstractJsseEndpoint.java:97)
+	... 26 common frames omitted
+[2020-07-24T06:10:00.000Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T06:10:00.000Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T06:10:00.000Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T06:10:07.007Z] [org.springframework.context.support.AbstractApplicationContext] [main] [559] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+[2020-07-24T06:10:07.007Z] [org.springframework.boot.SpringApplication] [main] [837] [ERROR] Application run failed
+org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:185)
+	at org.springframework.context.support.DefaultLifecycleProcessor.access$200(DefaultLifecycleProcessor.java:53)
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.start(DefaultLifecycleProcessor.java:360)
+	at org.springframework.context.support.DefaultLifecycleProcessor.startBeans(DefaultLifecycleProcessor.java:158)
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:122)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:895)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:554)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:18)
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:229)
+	at org.springframework.boot.web.servlet.context.WebServerStartStopLifecycle.start(WebServerStartStopLifecycle.java:43)
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:182)
+	... 14 common frames omitted
+Caused by: java.lang.IllegalArgumentException: standardService.connector.startFailed
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:231)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:282)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:213)
+	... 16 common frames omitted
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1067)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:227)
+	... 18 common frames omitted
+Caused by: java.lang.IllegalArgumentException: C:\demo\keystore.p12 (The system cannot find the file specified)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.createSSLContext(AbstractJsseEndpoint.java:99)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.initialiseSsl(AbstractJsseEndpoint.java:71)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:216)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1141)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1227)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:592)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1064)
+	... 20 common frames omitted
+Caused by: java.io.FileNotFoundException: C:\demo\keystore.p12 (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at sun.net.www.protocol.file.FileURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(Unknown Source)
+	at org.apache.catalina.startup.CatalinaBaseConfigurationSource.getResource(CatalinaBaseConfigurationSource.java:121)
+	at org.apache.tomcat.util.net.SSLUtilBase.getStore(SSLUtilBase.java:197)
+	at org.apache.tomcat.util.net.SSLHostConfigCertificate.getCertificateKeystore(SSLHostConfigCertificate.java:207)
+	at org.apache.tomcat.util.net.SSLUtilBase.getKeyManagers(SSLUtilBase.java:282)
+	at org.apache.tomcat.util.net.SSLUtilBase.createSSLContext(SSLUtilBase.java:246)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.createSSLContext(AbstractJsseEndpoint.java:97)
+	... 26 common frames omitted
+[2020-07-24T06:10:46.046Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T06:10:46.046Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T06:10:46.046Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T06:10:52.052Z] [org.springframework.context.support.AbstractApplicationContext] [main] [559] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+[2020-07-24T06:10:52.052Z] [org.springframework.boot.SpringApplication] [main] [837] [ERROR] Application run failed
+org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:185)
+	at org.springframework.context.support.DefaultLifecycleProcessor.access$200(DefaultLifecycleProcessor.java:53)
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.start(DefaultLifecycleProcessor.java:360)
+	at org.springframework.context.support.DefaultLifecycleProcessor.startBeans(DefaultLifecycleProcessor.java:158)
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:122)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:895)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:554)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:18)
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat server
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:229)
+	at org.springframework.boot.web.servlet.context.WebServerStartStopLifecycle.start(WebServerStartStopLifecycle.java:43)
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:182)
+	... 14 common frames omitted
+Caused by: java.lang.IllegalArgumentException: standardService.connector.startFailed
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:231)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:282)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:213)
+	... 16 common frames omitted
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1067)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:227)
+	... 18 common frames omitted
+Caused by: java.lang.IllegalArgumentException: C:\demo\keystore.p12 (The system cannot find the file specified)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.createSSLContext(AbstractJsseEndpoint.java:99)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.initialiseSsl(AbstractJsseEndpoint.java:71)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:216)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1141)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1227)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:592)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1064)
+	... 20 common frames omitted
+Caused by: java.io.FileNotFoundException: C:\demo\keystore.p12 (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at sun.net.www.protocol.file.FileURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(Unknown Source)
+	at org.apache.catalina.startup.CatalinaBaseConfigurationSource.getResource(CatalinaBaseConfigurationSource.java:121)
+	at org.apache.tomcat.util.net.SSLUtilBase.getStore(SSLUtilBase.java:197)
+	at org.apache.tomcat.util.net.SSLHostConfigCertificate.getCertificateKeystore(SSLHostConfigCertificate.java:207)
+	at org.apache.tomcat.util.net.SSLUtilBase.getKeyManagers(SSLUtilBase.java:282)
+	at org.apache.tomcat.util.net.SSLUtilBase.createSSLContext(SSLUtilBase.java:246)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.createSSLContext(AbstractJsseEndpoint.java:97)
+	... 26 common frames omitted
+[2020-07-24T06:11:16.016Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T06:11:16.016Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T06:11:16.016Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T06:38:54.054Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T06:38:54.054Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T06:38:54.054Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T06:40:39.039Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T06:40:39.039Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T06:40:39.039Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T09:09:04.004Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T09:09:04.004Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T09:09:04.004Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T09:11:38.038Z] [com.example.demo.DemoApplication] [main] [15] [INFO ] this is a info message
+[2020-07-24T09:11:38.038Z] [com.example.demo.DemoApplication] [main] [16] [WARN ] this is a warn message
+[2020-07-24T09:11:38.038Z] [com.example.demo.DemoApplication] [main] [17] [ERROR] this is a error message
+[2020-07-24T09:20:34.034Z] [com.example.demo.DemoApplication] [main] [21] [INFO ] this is a info message
+[2020-07-24T09:20:34.034Z] [com.example.demo.DemoApplication] [main] [22] [WARN ] this is a warn message
+[2020-07-24T09:20:34.034Z] [com.example.demo.DemoApplication] [main] [23] [ERROR] this is a error message
+[2020-07-24T09:22:29.029Z] [com.example.demo.DemoApplication] [main] [21] [INFO ] this is a info message
+[2020-07-24T09:22:29.029Z] [com.example.demo.DemoApplication] [main] [22] [WARN ] this is a warn message
+[2020-07-24T09:22:29.029Z] [com.example.demo.DemoApplication] [main] [23] [ERROR] this is a error message
+[2020-07-24T09:43:47.047Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [308] [INFO ] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+[2020-07-24T09:43:47.047Z] [org.springframework.test.context.support.AbstractContextLoader] [main] [264] [INFO ] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+[2020-07-24T09:43:47.047Z] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [main] [83] [INFO ] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[2020-07-24T09:43:47.047Z] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [main] [237] [INFO ] Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.DemoApplicationTests
+[2020-07-24T09:43:47.047Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [248] [INFO ] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+[2020-07-24T09:43:47.047Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [177] [INFO ] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@782859e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@23f5b5dc, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@34bde49d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b1cfb87, org.springframework.test.context.support.DirtiesContextTestExecutionListener@821330f, org.springframework.test.context.event.EventPublishingTestExecutionListener@6f43c82, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5db6b9cd, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@210ab13f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@20b2475a, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@7857fe2, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@6f15d60e, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@1be2019a]
+[2020-07-24T09:48:42.042Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [308] [INFO ] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+[2020-07-24T09:48:42.042Z] [org.springframework.test.context.support.AbstractContextLoader] [main] [264] [INFO ] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+[2020-07-24T09:48:42.042Z] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [main] [83] [INFO ] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[2020-07-24T09:48:43.043Z] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [main] [237] [INFO ] Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.DemoApplicationTests
+[2020-07-24T09:48:43.043Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [248] [INFO ] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+[2020-07-24T09:48:43.043Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [177] [INFO ] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@782859e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@23f5b5dc, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@34bde49d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b1cfb87, org.springframework.test.context.support.DirtiesContextTestExecutionListener@821330f, org.springframework.test.context.event.EventPublishingTestExecutionListener@6f43c82, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5db6b9cd, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@210ab13f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@20b2475a, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@7857fe2, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@6f15d60e, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@1be2019a]
+[2020-07-24T09:50:08.008Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [308] [INFO ] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+[2020-07-24T09:50:08.008Z] [org.springframework.test.context.support.AbstractContextLoader] [main] [264] [INFO ] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+[2020-07-24T09:50:08.008Z] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [main] [83] [INFO ] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[2020-07-24T09:50:09.009Z] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [main] [237] [INFO ] Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.DemoApplicationTests
+[2020-07-24T09:50:09.009Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [248] [INFO ] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+[2020-07-24T09:50:09.009Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [177] [INFO ] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@782859e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@23f5b5dc, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@34bde49d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b1cfb87, org.springframework.test.context.support.DirtiesContextTestExecutionListener@821330f, org.springframework.test.context.event.EventPublishingTestExecutionListener@6f43c82, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5db6b9cd, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@210ab13f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@20b2475a, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@7857fe2, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@6f15d60e, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@1be2019a]
+[2020-07-24T09:51:57.057Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [308] [INFO ] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+[2020-07-24T09:51:57.057Z] [org.springframework.test.context.support.AbstractContextLoader] [main] [264] [INFO ] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+[2020-07-24T09:51:57.057Z] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [main] [83] [INFO ] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[2020-07-24T09:51:58.058Z] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [main] [237] [INFO ] Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.DemoApplicationTests
+[2020-07-24T09:51:58.058Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [248] [INFO ] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+[2020-07-24T09:51:58.058Z] [org.springframework.test.context.support.AbstractTestContextBootstrapper] [main] [177] [INFO ] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@782859e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@23f5b5dc, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@34bde49d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b1cfb87, org.springframework.test.context.support.DirtiesContextTestExecutionListener@821330f, org.springframework.test.context.event.EventPublishingTestExecutionListener@6f43c82, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5db6b9cd, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@210ab13f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@20b2475a, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@7857fe2, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@6f15d60e, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@1be2019a]
+[2020-07-24T10:41:31.031Z] [com.example.demo.DemoApplication] [main] [23] [INFO ] this is a info message
+[2020-07-24T10:41:31.031Z] [com.example.demo.DemoApplication] [main] [24] [WARN ] this is a warn message
+[2020-07-24T10:41:31.031Z] [com.example.demo.DemoApplication] [main] [25] [ERROR] this is a error message
+[2020-07-24T10:41:33.033Z] [org.springframework.boot.SpringApplication] [main] [837] [ERROR] Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:161)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:102)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:68)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:80)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:26)
+[2020-07-24T10:42:27.027Z] [com.example.demo.DemoApplication] [main] [23] [INFO ] this is a info message
+[2020-07-24T10:42:27.027Z] [com.example.demo.DemoApplication] [main] [24] [WARN ] this is a warn message
+[2020-07-24T10:42:27.027Z] [com.example.demo.DemoApplication] [main] [25] [ERROR] this is a error message
+[2020-07-24T10:42:28.028Z] [org.springframework.boot.SpringApplication] [main] [837] [ERROR] Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:161)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:102)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:68)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:80)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:26)
+[2020-07-24T10:43:55.055Z] [com.example.demo.DemoApplication] [main] [23] [INFO ] this is a info message
+[2020-07-24T10:43:55.055Z] [com.example.demo.DemoApplication] [main] [24] [WARN ] this is a warn message
+[2020-07-24T10:43:55.055Z] [com.example.demo.DemoApplication] [main] [25] [ERROR] this is a error message
+[2020-07-24T10:43:56.056Z] [org.springframework.boot.SpringApplication] [main] [837] [ERROR] Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:161)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:102)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:68)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:80)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:26)
+[2020-07-24T10:44:37.037Z] [com.example.demo.DemoApplication] [main] [23] [INFO ] this is a info message
+[2020-07-24T10:44:37.037Z] [com.example.demo.DemoApplication] [main] [24] [WARN ] this is a warn message
+[2020-07-24T10:44:37.037Z] [com.example.demo.DemoApplication] [main] [25] [ERROR] this is a error message
+[2020-07-24T10:48:11.011Z] [com.example.demo.DemoApplication] [main] [23] [INFO ] this is a info message
+[2020-07-24T10:48:11.011Z] [com.example.demo.DemoApplication] [main] [24] [WARN ] this is a warn message
+[2020-07-24T10:48:11.011Z] [com.example.demo.DemoApplication] [main] [25] [ERROR] this is a error message
+[2020-07-24T10:48:12.012Z] [org.springframework.boot.SpringApplication] [main] [837] [ERROR] Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:161)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:102)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:68)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:80)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:26)
+[2020-07-24T10:48:53.053Z] [com.example.demo.DemoApplication] [main] [23] [INFO ] this is a info message
+[2020-07-24T10:48:53.053Z] [com.example.demo.DemoApplication] [main] [24] [WARN ] this is a warn message
+[2020-07-24T10:48:53.053Z] [com.example.demo.DemoApplication] [main] [25] [ERROR] this is a error message
+[2020-07-24T10:48:54.054Z] [org.springframework.boot.SpringApplication] [main] [837] [ERROR] Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:161)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:102)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:68)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:80)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:26)
+[2020-07-24T10:52:00.000Z] [com.example.demo.DemoApplication] [main] [21] [INFO ] this is a info message
+[2020-07-24T10:52:00.000Z] [com.example.demo.DemoApplication] [main] [22] [WARN ] this is a warn message
+[2020-07-24T10:52:00.000Z] [com.example.demo.DemoApplication] [main] [23] [ERROR] this is a error message
+[2020-07-24T10:52:07.007Z] [org.springframework.context.support.AbstractApplicationContext] [main] [559] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9090 is already in use
+[2020-07-24T10:52:07.007Z] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] [main] [40] [ERROR] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9090 or configure this application to listen on another port.
+
+[2020-07-24T10:53:01.001Z] [com.example.demo.DemoApplication] [main] [21] [INFO ] this is a info message
+[2020-07-24T10:53:01.001Z] [com.example.demo.DemoApplication] [main] [22] [WARN ] this is a warn message
+[2020-07-24T10:53:01.001Z] [com.example.demo.DemoApplication] [main] [23] [ERROR] this is a error message
